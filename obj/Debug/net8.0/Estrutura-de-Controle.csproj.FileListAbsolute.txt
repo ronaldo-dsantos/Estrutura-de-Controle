@@ -1,0 +1,14 @@
+c:\Users\ronal\Estrutura-de-Controle\bin\Debug\net8.0\Estrutura-de-Controle.exe
+c:\Users\ronal\Estrutura-de-Controle\bin\Debug\net8.0\Estrutura-de-Controle.deps.json
+c:\Users\ronal\Estrutura-de-Controle\bin\Debug\net8.0\Estrutura-de-Controle.runtimeconfig.json
+c:\Users\ronal\Estrutura-de-Controle\bin\Debug\net8.0\Estrutura-de-Controle.dll
+c:\Users\ronal\Estrutura-de-Controle\bin\Debug\net8.0\Estrutura-de-Controle.pdb
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\Estrutura-de-Controle.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\Estrutura-de-Controle.AssemblyInfoInputs.cache
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\Estrutura-de-Controle.AssemblyInfo.cs
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\Estrutura-de-Controle.csproj.CoreCompileInputs.cache
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\Estrutura-de-Controle.dll
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\refint\Estrutura-de-Controle.dll
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\Estrutura-de-Controle.pdb
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\Estrutura-de-Controle.genruntimeconfig.cache
+c:\Users\ronal\Estrutura-de-Controle\obj\Debug\net8.0\ref\Estrutura-de-Controle.dll
